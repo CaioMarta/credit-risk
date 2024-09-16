@@ -53,7 +53,7 @@ This project demonstrated the effectiveness of using machine learning algorithms
 
 ## Author
 
-- [Your Name](https://github.com/CaioMarta)
+- [Caio Marta](https://github.com/CaioMarta)
 
 ---
 
